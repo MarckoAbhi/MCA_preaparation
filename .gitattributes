@@ -1,1 +1,3 @@
 *.pdf filter=lfs diff=lfs merge=lfs -text
+Theory/MCS214-Professional[[:space:]]Skills[[:space:]]and[[:space:]]Ethics/Block-01[[:space:]]Professional[[:space:]]Skills[[:space:]]needed[[:space:]]at[[:space:]]the[[:space:]]Workplace-I/Block-1.pdf filter=lfs diff=lfs merge=lfs -text
+Theory/MCS214-Professional[[:space:]]Skills[[:space:]]and[[:space:]]Ethics/Block-02[[:space:]]Professional[[:space:]]Skills[[:space:]]needed[[:space:]]at[[:space:]]the[[:space:]]Workplace-II/Block-2.pdf filter=lfs diff=lfs merge=lfs -text
